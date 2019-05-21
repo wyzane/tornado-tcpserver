@@ -1,6 +1,7 @@
 # tornado-tcpserver-struct
-基于tornado tcpserver的echo服务器：
-  
+## 基于tornado tcpserver的echo服务器
+
+### 功能：  
   1.客户端对数据组包并将数据发送到服务器，
   
   2.服务端对数据拆包后将数据再发送给客户端。
